@@ -3,8 +3,7 @@ title: Product Manager in Training
 author: Daniel Gwon
 email: dygwon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Former pastor, pharmacy technician, USAF officer,
-  now MBA Candidate at NYU Stern - training to be a Product Manager.
+  pastor, pharm tech, USAF officer, SWE, MBA Candidate
 
 # social links
 twitter_username: dgwons # DO NOT include the @ character, or else the build will fail!
